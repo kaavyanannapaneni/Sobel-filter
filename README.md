@@ -1,7 +1,7 @@
 # Sobel-filter
 Sobel filter using MATLAB
 
-<img width="50px" ![](image/building.jpg)>
+![](image/building.jpg | width=100)
 
 
 
